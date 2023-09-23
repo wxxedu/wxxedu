@@ -154,6 +154,10 @@ MarginNote is a digital reader app that helps users learn their materials better
 > #### Experience
 > 
 > I become obssessed with Rust in early 2023, and I wrote a lot of code in Rust since. 
+> 
+> #### Projects
+> 
+> TBD
 </details>
 
 <details>
